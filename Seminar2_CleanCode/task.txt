@@ -1,0 +1,1 @@
+Apply Clean Code principles to the files in the "files_to_refactor" folder.
