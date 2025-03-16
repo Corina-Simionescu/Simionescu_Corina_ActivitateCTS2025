@@ -1,0 +1,19 @@
+Romanian:
+
+Singleton
+
+Sa se realizeze o clasa singleton intr-un domeniu la alegere. Clasa trebuie sa contina minim 3 atribute.
+
+    - Eager initialization
+    - Lazy initialization
+    - Thread Safe
+
+
+English:
+
+Create a class that implements Singleton design pattern. The class should contain minimum 3 fields.
+Make 3 implementations of Singleton:
+
+    - Eager initialization
+    - Lazy initialization
+    - Thread Safe
