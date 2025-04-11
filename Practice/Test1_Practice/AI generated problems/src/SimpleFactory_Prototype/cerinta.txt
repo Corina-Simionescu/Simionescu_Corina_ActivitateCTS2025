@@ -1,0 +1,9 @@
+4. Factory + Prototype
+Subiect: Sistem de Producție pentru o Fabrică de Mobilă
+O fabrică de mobilă produce mai multe tipuri de mobilier (Scaun, Masă, Dulap, Pat). Din fiecare tip există câteva modele standard (prototipuri) care pot fi personalizate.
+Cerințe:
+
+Creați o interfață Mobilier cu metoda clone()
+Implementați clasele concrete pentru fiecare tip de mobilier
+Creați o clasă MobilierFactory care stochează prototipurile și returnează clone când sunt solicitate
+Factory-ul trebuie să permită înregistrarea prototipurilor și obținerea de copii
