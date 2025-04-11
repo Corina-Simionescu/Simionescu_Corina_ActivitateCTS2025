@@ -1,0 +1,4 @@
+A.3. În cadrul aplicației personalul spitalului este de mai multe tipuri: Brancardier, Asistent, Medic,
+Secretar, Registrator. Să se implementeze modulul care pune la dispoziției crearea de obiecte din
+familia obiectelor PersonalSpital stiind faptul ca personalul este împărțit in doua categorii:
+personal medical si personal non-Medical.
