@@ -1,0 +1,8 @@
+Subiect: Sistem de rezervare pentru un Cinematograf
+Cinematograful are nevoie de un sistem centralizat pentru crearea diferitelor tipuri de bilete (Normal, VIP, Student, Familie). Fiecare tip de bilet are caracteristici proprii și un preț diferit.
+Cerințe:
+
+Creați o clasă BiletFactory care să folosească pattern-ul Singleton (o singură instanță în aplicație)
+Factory-ul trebuie să poată crea diferite tipuri de bilete bazate pe tipul specificat
+Tipurile de bilete sunt definite într-un enum TipBilet
+Clasa de bază pentru toate biletele se numește Bilet
