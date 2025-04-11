@@ -1,0 +1,7 @@
+Subiect: Configurator pentru Jocuri Video
+Un studio de jocuri are nevoie de un sistem centralizat de configurare pentru jocurile sale. Fiecare joc are numeroase setări: rezoluție, calitate grafică, nivel de dificultate, volum, control parental, etc.
+Cerințe:
+
+Creați o clasă ConfiguratorJoc care implementează pattern-ul Singleton
+Configuratorul trebuie să folosească pattern-ul Builder pentru a crea obiecte de tip ConfiguratieJoc
+Configuratorul trebuie să permită setarea diferitelor opțiuni, iar dacă acestea nu sunt specificate, să folosească valori implicite
