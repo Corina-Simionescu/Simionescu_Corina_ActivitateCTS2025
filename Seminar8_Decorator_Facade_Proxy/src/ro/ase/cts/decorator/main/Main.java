@@ -4,7 +4,7 @@ import ro.ase.cts.decorator.clase.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Solved problem: Problems CTS2025 - Restaurant -> A6\\n");
+        System.out.println("Solved problem: Problems CTS2025 - Restaurant -> B7\n");
 
         Nota nota =  new NotaDePlata(100);
 
